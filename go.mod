@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-address
+module github.com/jimmywang1994/go-address
 
 go 1.13
 
